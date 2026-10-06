@@ -1,4 +1,4 @@
-# RotaCerta# RotaCerta - Sistema Inteligente de Gestão de Frota e Logística
+# RotaCerta - Sistema Inteligente de Gestão de Frota e Logística
 
 > **Atividade Prática de Engenharia de Requisitos**  
 > Documentação técnica para concepção e levantamento de requisitos de uma plataforma de gestão de entregas e otimização de rotas.
